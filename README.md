@@ -135,4 +135,4 @@ Bu proje MIT lisansı altında lisanslanmıştır - Detaylar için [LICENSE](LIC
 
 QoogleTr - [@qoogletr](https://github.com/qoogletr)
 
-Proje Linki: [https://github.com/qoogletr/android-barcode-scanner](https://github.com/qoogletr/android-barcode-scanner)
+Proje Linki: [https://github.com/qoogletr/Rota](https://github.com/qoogletr/Rota)
