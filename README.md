@@ -22,7 +22,7 @@ Modern Android barkod ve QR kod tarayıcı uygulaması. HTTP üzerinden taranan 
 
 1. Android Studio'yu açın
 2. 'Get from Version Control' seçeneğini seçin
-3. URL'ye şunu yapıştırın: `https://github.com/qoogletr/android-barcode-scanner.git`
+3. URL'ye şunu yapıştırın: `https://github.com/qoogletr/Rota.git`
 4. 'Clone' butonuna tıklayın
 
 ## Kullanım
