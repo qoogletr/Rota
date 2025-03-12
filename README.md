@@ -7,7 +7,7 @@ Modern Android barkod ve QR kod tarayıcı uygulaması. HTTP üzerinden taranan 
 - 🎯 Barkod ve QR kod tarama
 - 📤 Çoklu veri gönderim formatları (Plain Text, JSON, XML, CSV)
 - 🎨 Modern Material Design 3 arayüzü
-- 📱 Android 5.0 ve üzeri sürüm desteği
+- 📱 Android 9.0 ve üzeri sürüm desteği
 - ⚡ Otomatik ve manuel tarama modu
 - 💾 Tarama geçmişi ve yerel depolama
 - 🌐 Özelleştirilebilir sunucu ayarları
